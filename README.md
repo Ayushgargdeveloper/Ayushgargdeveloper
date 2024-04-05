@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Githubak2002/Githubak2002/blob/main/ak_logo.svg" alt="Marton Lederer" />
+  <img src="https://github.com/Ayushgargdeveloper/Ayushgargdeveloper/tree/main.svg" alt="Marton Lederer" />
 </h1>
 
 <!--
