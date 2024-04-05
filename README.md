@@ -23,13 +23,13 @@
 
 <!-- <h4 align="left">Connect with me - Linkedin </h4>
 <a href="https://www.linkedin.com/in/anuraglohar" target="blank"> https://www.linkedin.com/in/anuraglohar </a> -->
-<h4>Gmail - <i>anuragofficial2023@gmail.com </i> </h4>
+<h4>Gmail - <i>kanagarg96@gmail.com </i> </h4>
   <!-- <a href="https://instagram.com/ak_creates_here" target="blank"><h4>Insta</h4></a> -->
 
 
 - 🌱 I’m currently searching for JOBS or paid intern in webD domain.
-- 👯 I’m looking to collaborate on **Web Development projects with React js, MERN and NEXT js.**
-- 💬 Ask me about **Next js, Web Development, Blender 3D, Design.**
+- 👯 I’m looking to collaborate on **Web Development projects.**
+- 💬 Ask me about ** Web Development,Node.js**
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
