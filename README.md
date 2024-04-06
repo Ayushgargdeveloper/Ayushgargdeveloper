@@ -15,7 +15,7 @@
 -->
 
 - 👨‍💻 ALL PROJECTS → [Live here!](https://ak-nextjs-portfolio.vercel.app/projects)
-- 📫 Reach me → **[LinkedIn](https://www.linkedin.com/in/anuraglohar)**
+- 📫 Reach me → **[LinkedIn](https://www.linkedin.com/in/ayushgarg56)**
 - 📄 EXPEREIENCE → <a href="https://ak-nextjs-portfolio.vercel.app" target="blank"> next_js_portfolio </a>
 - 🎖️ Mostly WebD project on Github are with Live link. <br>
 
